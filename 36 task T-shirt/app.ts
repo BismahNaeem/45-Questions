@@ -6,5 +6,5 @@
     console.log(`Making a ${size} t-shirt with the message "${message}" printed on it.`);
 }
 
-make_shirt("medium", "Code is Life");
+make_shirt("large", "Code is Life");
 
